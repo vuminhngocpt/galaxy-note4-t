@@ -4,7 +4,7 @@
 
 ####    Tải Về Android 11+...
 
-  - các bạn có thể tải về các bản rom khác nhau lưu ý chúng tôi không chịu chách nhiệm nếu máy bạn hỏng hoàn toàn khi up rom nguồn sưu tầm
+  - ⚡⚠��bạn tự chịu nếu máy có bị hỏng do một lý do nào đó , nếu máy vẫn bình thường không nên nghịch để dẫn đến hỏng máy 
     
     
 [Tải Về Rom](https://sourceforge.net/projects/galaxy-note-4-exynos/files/LineageOS-18.1/)
