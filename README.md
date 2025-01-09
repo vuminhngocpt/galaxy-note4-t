@@ -9,10 +9,11 @@
     
 [Tải Về Rom](https://sourceforge.net/projects/galaxy-note-4-exynos/files/LineageOS-18.1/)
 
+[Tải Về Odin](https://odindownloader.com/download/odin3-v3-13-3))
 
 ####     Hướng Dẫn 
 
-[ Nguồn ](https://xdaforums.com/t/exynos-galaxynote4-n910c-u-h-s-l-k-unofficial-lineageos-18-1-6-30-2023.3937956/)
+[ Nguồn Tham Khảo ](https://xdaforums.com/t/exynos-galaxynote4-n910c-u-h-s-l-k-unofficial-lineageos-18-1-6-30-2023.3937956/)
 
 
        VMNiT © 2025
