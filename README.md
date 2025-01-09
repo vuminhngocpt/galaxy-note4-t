@@ -15,6 +15,7 @@
 
 [�Tải Về GApps- Google App Android 11](https://sourceforge.net/projects/opengapps/files/arm/)
 
+[💽Root ](https://github.com/topjohnwu/Magisk/releases)
 
 ####     Hướng Dẫn Và Mã Nguồn Mở
 
