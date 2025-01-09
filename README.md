@@ -9,7 +9,9 @@
     
 [Tải Về Rom](https://sourceforge.net/projects/galaxy-note-4-exynos/files/LineageOS-18.1/)
 
-[Tải Về Odin](https://odindownloader.com/download/odin3-v3-13-3))
+[Tải Về Odin](https://odindownloader.com/download/odin3-v3-13-3)
+
+[Tải Về TWRP](https://sourceforge.net/p/galaxy-note-4-exynos/wiki/TWRP%20Custom%20Recovery%20Guide/)
 
 ####     Hướng Dẫn 
 
