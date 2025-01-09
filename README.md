@@ -16,9 +16,12 @@
 [Tải Về GApps- Google App Android 11](https://sourceforge.net/projects/opengapps/files/arm/)
 
 
-####     Hướng Dẫn 
+####     Hướng Dẫn Và Mã Nguồn Mở
+
+[Mã Nguồn](https://github.com/corsicanu/hKtweaks/releases/tag/v2.2.2)
+
 
 [ Nguồn Tham Khảo ](https://xdaforums.com/t/exynos-galaxynote4-n910c-u-h-s-l-k-unofficial-lineageos-18-1-6-30-2023.3937956/)
 
 
-       VMNiT © 2025
+       VMNiT © Vũ Minh Ngọc
