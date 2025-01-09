@@ -25,4 +25,4 @@
 [ �Nguồn Tham Khảo ](https://xdaforums.com/t/exynos-galaxynote4-n910c-u-h-s-l-k-unofficial-lineageos-18-1-6-30-2023.3937956/)
 
 
-       VMNiT © Vũ Minh Ngọc
+       © Vũ Minh Ngọc | Viết Bằng iPhone 6SP
